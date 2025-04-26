@@ -37,7 +37,7 @@ Visuals:
 
 
 3.Detail Page 
-![detail-view preview ](./image/detailview.png)
+![detail-view preview ]((https://github.com/archi1715/Power_BI-Customer---employee-sales-/blob/5d4c59e9fe0bbc164df3cd286d0f8362d57fdd64/image/tooltip.PNG))
 
 - Detailed Insights:  
   - Activated via the information icon in the main dashboard.
