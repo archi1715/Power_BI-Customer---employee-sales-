@@ -30,7 +30,7 @@ Visuals:
 2.Tooltip Page
 ![tooltip preview ](image/detail view.PNG)
 
-- **Dynamic Tooltip: 
+  - Dynamic Tooltip: 
   - Appears when hovering over visuals in the main dashboard.
   - Displays **Sum of Quantity Ordered by Order Year**.
   - Helps users gain instant drill-down without navigating away.
