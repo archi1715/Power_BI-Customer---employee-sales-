@@ -28,7 +28,7 @@ Visuals:
 
 
 2.Tooltip Page
-![tooltip preview ](./image/tooltip.png)
+![tooltip preview ](image/detail view.PNG)
 
 - **Dynamic Tooltip: 
   - Appears when hovering over visuals in the main dashboard.
