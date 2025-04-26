@@ -37,7 +37,7 @@ Visuals:
 
 
 3.Detail Page 
-![detail-view preview ](image/detail view.PNG)
+![detail-view preview ](image/detail_view.PNG)
 
 - Detailed Insights:  
   - Activated via the information icon in the main dashboard.
