@@ -5,6 +5,10 @@ This repository presents a Power BI project that analyzes customer behavior, emp
 The dashboard is interactive, visually engaging, and supports detailed drill-through capabilities.
 
 📊 Project Features
+
+dashboard preview :
+![dashboard preview ](./image/M-Dashboard.png)
+
  1. Main Dashboard 
   - KPIs Displayed:  
   - Total Sales (2003-2005)
@@ -24,6 +28,8 @@ Visuals:
 
 
 2.Tooltip Page
+![tooltip preview ](./image/tooltip.png)
+
 - **Dynamic Tooltip: 
   - Appears when hovering over visuals in the main dashboard.
   - Displays **Sum of Quantity Ordered by Order Year**.
@@ -31,6 +37,8 @@ Visuals:
 
 
 3.Detail Page 
+![detail-view preview ](./image/detailview.png)
+
 - Detailed Insights:  
   - Activated via the information icon in the main dashboard.
   - Shows:
