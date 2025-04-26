@@ -7,7 +7,7 @@ The dashboard is interactive, visually engaging, and supports detailed drill-thr
 📊 Project Features
 
 dashboard preview :
-![dashboard preview ](./image/M-Dashboard.png)
+![dashboard preview ](image/M-Dashboard.PNG)
 
  1. Main Dashboard 
   - KPIs Displayed:  
